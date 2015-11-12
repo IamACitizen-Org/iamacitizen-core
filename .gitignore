@@ -1,0 +1,11 @@
+# Eclipse project files
+.classpath
+.project
+.metadata
+.settings
+
+# maven output folder
+target
+test-output
+
+.DS_Store
